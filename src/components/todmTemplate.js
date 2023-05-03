@@ -11,7 +11,7 @@ margin: 0 auto;
 margin-top: 96px;
 margin-bottom: 32px;
 display: flex;
-flex-direction: colum;
+flex-direction: column;
 `
 
 function Todotemplate({children}){
